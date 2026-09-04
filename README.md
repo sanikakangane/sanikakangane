@@ -1,133 +1,21 @@
-<div align="center">
+# 💫 About Me:
+🔭 Currently building<br>Turning ideas into small, working experiments<br><br>🤝 Open to collaborating on<br>AI tools, creative web apps & student-built products<br><br>🧩 Looking for help with<br>Turning ambitious ideas into polished, scalable builds<br><br>🌱 Currently exploring<br>Backend development, AI, databases & emerging tech<br><br>💬 Ask me about<br>Ideas I'm building, UI/UX, JavaScript & things I'm currently figuring out<br><br>📫 Let's connect<br>Through GitHub, LinkedIn or a good idea<br><br>🚀 Explore my work<br>Projects where curiosity meets code<br><br>✍️ I write about<br>Things I learn, build and break along the way<br><br>📄 My experience<br>A work in progress — one project at a time<br><br>⚡ Fun fact<br>I can turn a random “what if?” into a project idea
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,5&text=Sanika%20Kangane&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&desc=B.Tech%20CSE%20'29%20·%20Builder%20·%20Explorer&descAlign=50&descAlignY=58&animation=fadeIn" alt="header banner" width="100%"/>
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanikakangane_108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanikakangane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanika915623) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanikakangane166@gmail.com) 
 
-<h3>
-  <code>what if?</code> → <code>let's build it.</code>
-</h3>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sanikakangane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sanikakangane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanikakangane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<sub>Turning curiosity into code, one experiment at a time.</sub>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/><br/>
+---
+[![](https://komarev.com/ghpvc/?username=sanikakangane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/></a>
-<a href="https://twitter.com/sanika915623"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" alt="Twitter"/></a>
-<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A" alt="Instagram"/></a>
-
-</div>
-
-<br/>
-
-## Now
-
-```txt
-role      Building small, working experiments
-exploring Backend development, AI, databases & emerging tech
-open to   AI tools, creative web apps & student-built products
-seeking   Ambitious ideas that turn into polished, scalable builds
-```
-
-<br/>
-
-## Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" alt="Sanika's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikakangane&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="Sanika's contribution streak" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanikakangane&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9&hide_border=true&area=true" alt="Sanika's contribution activity graph" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<!--START_SECTION:contribution-snake-->
-<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" alt="Sanika's contribution snake animation" width="100%"/>
-<!--END_SECTION:contribution-snake-->
-
-</div>
-
-<sub>Analytics update automatically — numbers reflect live GitHub activity, not static claims.</sub>
-
-<br/>
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,nodejs,mongodb,postgres,git,linux&theme=dark" alt="tech stack icons"/>
-
-</div>
-
-<div align="center">
-
-| Languages | Backend & Data | Tools |
-|:---:|:---:|:---:|
-| C++ · Python · JavaScript | Node.js · MongoDB · PostgreSQL · Pandas | Git · Linux |
-
-</div>
-
-**Currently learning:** system design fundamentals, applied AI/ML, and scalable backend architecture.
-
-<br/>
-
-## Philosophy
-
-<div align="center">
-
-*Most of my projects start with a question I probably should've ignored — and end as something I'm glad I didn't.*
-
-</div>
-
-<br/>
-
-## Build in Motion
-
-<div align="center">
-<sub>Reserved for future demo GIFs and project walkthroughs.</sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,5&section=footer" alt="footer banner" width="100%"/>
-
-<sub>© Sanika Kangane · Let's connect through GitHub, LinkedIn, or a good idea.</sub>
-
-</div>
-
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: sanikakangane
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
