@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://twitter.com/sanika915623" target="blank"><img src="https://img.shields.io/twitter/follow/sanika915623?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/sanikakangane" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sanika-kangane-047545386/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/sanikakangane_108" target="blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -24,6 +24,7 @@
 - 🧩 Looking for help with **turning ambitious ideas into polished, scalable builds**
 - ✍️ I write about **things I learn, build, and break along the way**
 - 💬 Ask me about **UI/UX, JavaScript, and whatever I'm currently figuring out**
+- 📍 Based in **Navi Mumbai, India**
 - ⚡ Fun fact: **most of my projects start with a question I probably should've ignored**
 
 <br/>
@@ -60,20 +61,20 @@
   <a href="https://github.com/sanikakangane/AI-Opponent-Quiz-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=AI-Opponent-Quiz-Game&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sanikakangane/VIEWSYNC-PLATFORM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=VIEWSYNC-PLATFORM&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/sanikakangane/ViewSync-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=ViewSync-Platform&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/sanikakangane/fluid-scale-playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=fluid-scale-playground&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/sanikakangane/Fluid-Scale-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=Fluid-Scale-Playground&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sanikakangane/Kiln">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=Kiln&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/sanikakangane/REPLACE-WITH-KILN-REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikakangane&repo=REPLACE-WITH-KILN-REPO-NAME&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-> 💡 Pin cards pull live data from GitHub, so make sure each repo above matches its exact name/case on your profile — rename any that don't match and the card will render automatically.
+> 💡 The 4th slot is a placeholder for your "Kiln" project — I couldn't confirm its exact repo name (GitHub's API was rate-limiting my checks). Swap `REPLACE-WITH-KILN-REPO-NAME` in both spots above with the real name from your repositories tab, or tell me the name and I'll fix it.
 
 <br/>
 
@@ -83,14 +84,14 @@
   <img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
 </div>
 
-> 🐍 This animated snake needs a one-time GitHub Actions setup (it's free and takes ~2 minutes). Let me know if you want the workflow file to generate it — otherwise you can delete this section.
+> 🐍 This animated snake needs a one-time GitHub Actions setup (free, ~2 minutes). Say the word and I'll write the workflow file — otherwise delete this section.
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanika915623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanika915623" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanikakangane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanikakangane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanika-kangane-047545386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika-kangane" height="30" width="40" /></a>
 <a href="https://instagram.com/sanikakangane_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanikakangane_108" height="30" width="40" /></a>
 </p>
 
