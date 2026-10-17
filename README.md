@@ -217,26 +217,6 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 <sub>07 / OPEN CHANNEL</sub>
 
-# Have an interesting idea?
-
-I'm always curious about new possibilities, creative technology, AI experiments, and conversations that make me think differently.
-
-If you're learning something interesting, exploring an unusual idea, or building something with purpose, **I'd love to connect.**
-
-<br/>
-
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=F3F3ED" alt="Connect on LinkedIn"/></a>
-
-<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=F3F3ED" alt="Instagram"/></a>
-
-<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/FIND_ME_ON_X-000000?style=for-the-badge&logo=x&logoColor=F3F3ED" alt="X"/></a>
-
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-000000?style=for-the-badge&logo=gmail&logoColor=F3F3ED" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:333333,45:151515,100:000000" width="100%" alt="Minimal black and charcoal footer"/>
-
 <sub>HUMAN CURIOSITY × ARTIFICIAL INTELLIGENCE</sub>
 
 <br/>
