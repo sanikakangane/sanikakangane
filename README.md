@@ -1,16 +1,21 @@
- <div align="center">
+```markdown
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B16,35:24104F,70:6D28D9,100:EC4899&text=SANIKA%20KANGANE&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=HUMAN%20CURIOSITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20REAL%20BUILDS&descSize=11&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081C24,50:312E81,100:7C3AED&text=SANIKA%20KANGANE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Sanika Kangane — GitHub profile header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Curious+by+nature.+Building+by+choice.;Exploring+the+space+between+code+and+creativity.;Learning+today.+Creating+what%27s+next.;Human+imagination+%2B+machine+intelligence." alt="Animated introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&height=50&lines=I+don't+just+use+technology.+I+experiment+with+it.;Curiosity+is+the+prompt.+Code+is+the+response.;Ideas+are+cheap.+Making+them+work+is+the+fun+part.;Building+at+the+intersection+of+AI+%26+engineering." />
-
-<br/>
-
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LINKEDIN-080B16?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
-<a href="https://github.com/sanikakangane"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-080B16?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-080B16?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
+<a href="https://github.com/sanikakangane">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20world-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/sanikakangane">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sanikakangane166@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -18,162 +23,156 @@
 
 <div align="center">
 
-### `01 / THE MINDSET`
-
-# What if it actually worked?
-
-I’m Sanika — a B.Tech CSE student exploring the space between **curiosity and creation**.
-
-I like taking ideas that start with *“what if?”* and turning them into something real: a useful tool, a thoughtful interface, an experiment with AI, or a system that solves an actual problem.
-
-I'm interested in more than making things run. I want to understand **why they work, how they can work better, and what else is possible.**
-
-<br/>
-
-`THINK DEEPLY.` &nbsp; `BUILD FEARLESSLY.` &nbsp; `KEEP EXPERIMENTING.`
+<img src="assets/human-ai.jpg" width="100%" alt="Human and artificial intelligence reaching toward each other"/>
 
 </div>
 
-<br/>
+## `01` — A little about me
 
-## `02 / CURRENTLY IN THE LAB`
+### I wonder. I explore. I build.
+
+I'm a **B.Tech Computer Science student** fascinated by the intersection of technology, intelligence, and creativity.
+
+For me, coding isn't just about making things work. It's about asking better questions, understanding how things connect, and turning ideas into something real.
+
+- 🧠 Exploring artificial intelligence and emerging technologies
+- ⚙️ Learning how backend systems and databases work behind the scenes
+- 🎨 Interested in creative interfaces, visual design, and user experience
+- 🌱 Constantly learning, experimenting, and improving one step at a time
+
+> *Still becoming. Always curious.*
+
+---
+
+## `02` — My curiosity map
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Intelligence
+### 🧠 Artificial Intelligence
 
-Exploring AI-powered experiences, practical applications of AI, and the possibilities of making technology more useful.
-
-**Status:** EXPERIMENTING
+Understanding how machines learn, reason, and assist human creativity.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Engineering
+### ⚙️ Backend & Databases
 
-Building with JavaScript, Node.js, databases, and web technologies while strengthening my backend development fundamentals.
-
-**Status:** BUILDING
+Exploring the logic, APIs, data, and systems that power applications.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Digital Craft
+### 🎨 Creative Technology
 
-Interested in thoughtful UI/UX, fluid typography, clean interfaces, and the details that make a digital product feel finished.
-
-**Status:** REFINING
+Where code meets visual expression, thoughtful interfaces, and user experience.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ The Next Question
+### 🌌 The What-If Zone
 
-Turning ambitious ideas into smaller experiments, learning through implementation, and improving one build at a time.
-
-**Status:** ALWAYS OPEN
+New tools, unfamiliar concepts, unexpected ideas, and technologies worth exploring.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## `03 / SELECTED EXPERIMENT`
+## `03` — My current toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" alt="JavaScript, C++, Python, HTML, and CSS"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" alt="Node.js and PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" alt="Matplotlib"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, and Vercel"/>
+</p>
 
 <div align="center">
 
-<a href="https://fluid-scale-playground.vercel.app">
+`LEARN` → `EXPERIMENT` → `BUILD` → `REFINE`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:111827,50:312E81,100:7C3AED&text=FLUID%20SCALE%20PLAYGROUND&fontSize=24&fontColor=FFFFFF&fontAlignY=42&desc=RESPONSIVE%20TYPE%20WITHOUT%20THE%20GUESSWORK&descSize=10&descAlignY=70" width="100%"/>
+<sub>A toolkit in progress — always open to learning something new.</sub>
 
+</div>
+
+---
+
+## `04` — GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Most-used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `05` — The contribution universe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through my GitHub contribution graph"/>
+
+<sub>Every contribution is a small step forward.</sub>
+
+</div>
+
+---
+
+## `06` — Beyond the code
+
+<div align="center">
+
+*“Creativity leads to thinking. Thinking provides knowledge.”*
+
+**— Dr. A. P. J. Abdul Kalam**
+
+</div>
+
+I believe the most interesting ideas happen when curiosity meets consistency. I'm here to learn from people, explore unfamiliar possibilities, and keep creating.
+
+If you're interested in technology, exchanging ideas, or learning together, let's connect.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sanikakangane">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://instagram.com/sanikakangane_108">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://x.com/sanika915623">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:sanikakangane166@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
-**Typography Typeface Fluid-Scale Playground**
-
-A hands-on playground for creating fluid, responsive typography with CSS mathematical functions instead of relying on endless media queries.
-
-- **Experiment:** Adjust viewport boundaries, base sizes, scale ratios, and colors.
-- **Preview:** Watch typography adapt as your settings change.
-- **Generate:** Get production-ready CSS for your chosen scale.
-
-<div align="center">
-
-<a href="https://fluid-scale-playground.vercel.app"><img src="https://img.shields.io/badge/↗_LIVE_DEMO-7C3AED?style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/sanikakangane/fluid-scale-playground"><img src="https://img.shields.io/badge/⌘_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## `04 / THE TOOLKIT`
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,cpp,python,html,css" />
-
-**BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
-
-**TOOLS & WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</div>
-
-<br/>
-
-## `05 / THE SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=080B16&title_color=C4B5FD&text_color=D1D5DB&icon_color=F472B6&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=080B16&title_color=C4B5FD&text_color=D1D5DB" width="41%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=080B16&ring=8B5CF6&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="65%"/>
-
-</div>
-
-<br/>
-
-## `06 / BEYOND THE REPOSITORY`
-
-<div align="center">
-
-I believe the best projects begin with a good question — and get better when you build, break, and rebuild them.
-
-I'm open to collaborating on **AI experiments, creative web applications, and ideas worth bringing to life.**
-
-<br/>
-
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/INSTAGRAM-C026D3?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/FOLLOW_ON_X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:081C24&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:EC4899,50:6D28D9,100:080B16" width="100%"/>
-
-<sub>DESIGNED BY CURIOSITY · BUILT WITH INTENTION</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" />
+<sub>Designed with curiosity. Powered by coffee, code, and the urge to understand more.</sub>
 
 </div>
+```
