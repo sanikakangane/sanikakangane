@@ -1,89 +1,96 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,35:0C2340,70:312E81,100:06B6D4&text=SANIKA%20KANGANE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descSize=12&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<img src="assets/human-ai.jpg" width="100%" alt="Human and artificial intelligence reaching toward each other"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:111C3A,100:5425A8&text=SANIKA%20KANGANE&fontColor=EAFBFF&fontSize=42&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descAlignY=59&descSize=14&animation=fadeIn" width="100%" alt="Sanika Kangane — futuristic profile banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&repeat=true&width=700&height=60&lines=HUMAN+IMAGINATION+%2B+MACHINE+INTELLIGENCE;CURIOUS+MIND.+CREATIVE+INSTINCT.+CODE.;LEARNING+WHAT+TECHNOLOGY+CAN+BECOME.;THE+FUTURE+STARTS+WITH+A+QUESTION." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Building+Ideas+Through+Code;Exploring+the+Human+%C3%97+AI+Connection;Curiosity+In.+Possibilities+Out." alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://github.com/sanikakangane"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1020?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-0B1020?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
+<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+**`01 / HUMAN CURIOSITY`** &nbsp; × &nbsp; **`02 / MACHINE INTELLIGENCE`**
 
 </div>
 
 ---
 
+## `01` — THE HUMAN BEHIND THE CODE
+
+```text
+┌──────────────────────────────────────────────┐
+│  SANIKA@EXPLORER                              │
+├──────────────────────────────────────────────┤
+│  STATUS    : Learning. Building. Evolving.   │
+│  MINDSET   : Curious by default.             │
+│  APPROACH  : Understand → Experiment → Build │
+│  DIRECTION : Computer Science & beyond       │
+└──────────────────────────────────────────────┘
+```
+
+Hey, I'm **Sanika Kangane** — a B.Tech Computer Science student fascinated by the intersection of technology, creativity, and problem-solving.
+
+I enjoy understanding how things work, experimenting with code, and turning ideas into something real. I'm building my skills one concept at a time, exploring new tools, and learning to think beyond the obvious.
+
+- `01` — Exploring programming and software development.
+- `02` — Learning how backend systems and databases work.
+- `03` — Experimenting with data, visuals, and creative technology.
+- `04` — Staying curious about what's next.
+
+> *I don't need to know everything. I just need to keep exploring.*
+
+---
+
+## `02` — BETWEEN HUMAN & MACHINE
+
 <div align="center">
 
-<sub>01 / THE HUMAN BEHIND THE MACHINE</sub>
+<img src="assets/human-ai-touch.gif" width="100%" alt="Animated cinematic artwork of a human hand reaching toward a robotic hand, representing the connection between human creativity and artificial intelligence"/>
 
-# I wonder. I explore. I build.
-
-*Not everything that can be imagined has been built. Not everything that has been built has been imagined enough.*
-
-I'm Sanika — a B.Tech Computer Science student fascinated by the space between **what technology can do and what we can imagine it doing.**
-
-I love exploring how things work, experimenting with new ideas, understanding the logic behind applications, and discovering how technology can become more intuitive, intelligent, and useful.
-
-From artificial intelligence and backend systems to creative interfaces and the little details that make a product feel right, I'm here to keep learning, questioning, and creating.
-
-**I don't want to learn technology just to use it. I want to understand it well enough to create something of my own.**
+<sub>HUMAN IMAGINATION × MACHINE CAPABILITY × INFINITE POSSIBILITY</sub>
 
 </div>
 
 ---
 
-<div align="center">
-
-<sub>02 / MY CURIOSITY MAP</sub>
-
-# Things that pull me in
-
-</div>
+## `03` — MY CURIOSITY MAP
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/01-8B5CF6?style=flat-square"/> Artificial Intelligence
+### ◈ Intelligence
 
-The idea that machines can learn, reason, generate, and help us solve problems fascinates me.
-
-I'm curious about building AI-powered experiences that go beyond the hype and create real value.
+Exploring the ideas behind intelligent systems, automation, and the relationship between humans and AI.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/02-06B6D4?style=flat-square"/> The Logic Behind Things
+### ◈ Engineering
 
-APIs, backend development, databases, authentication, and the invisible systems that make applications work.
-
-I enjoy understanding what's happening beneath the interface.
+Learning to build applications, understand backend logic, and work with databases.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/03-F472B6?style=flat-square"/> Creative Technology
+### ◈ Creative Technology
 
-Interfaces, typography, visual details, fluid layouts, and the relationship between design and engineering.
-
-Because functionality matters — but so does the experience.
+Interested in combining code, visual design, and interactive experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/04-34D399?style=flat-square"/> The What-If Zone
+### ◈ The What-If Zone
 
-New technologies, unusual ideas, experimental builds, and questions that lead somewhere unexpected.
-
-Sometimes the most interesting part of learning is not knowing what you'll discover next.
+Experimenting, asking questions, breaking down problems, and discovering better ways to build.
 
 </td>
 </tr>
@@ -91,30 +98,76 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 ---
 
+## `04` — THE TOOLKIT
+
+<sub>TOOLS I'M EXPLORING AND USING ON MY LEARNING JOURNEY</sub>
+
 <div align="center">
 
-<sub>03 / MY CURRENT EVOLUTION</sub>
+### Languages & Web
 
-# A mind in progress.
+<img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" alt="JavaScript, C++, Python, HTML, and CSS"/>
 
-<img src="https://img.shields.io/badge/LEARNING-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPERIMENTING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EVOLVING-F472B6?style=for-the-badge"/>
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" alt="Node.js and PostgreSQL"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=flat-square" alt="Matplotlib"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, Visual Studio Code, and Vercel"/>
 
 </div>
 
-| Exploring | What interests me |
-|:--|:--|
-| Artificial intelligence | Practical AI, intelligent tools, and new possibilities |
-| Backend engineering | APIs, server logic, authentication, and application architecture |
-| Databases | How information is organised, connected, and used |
-| Web development | JavaScript, responsive interfaces, and interactive experiences |
-| UI/UX | Making technology feel intuitive, thoughtful, and polished |
-| Emerging technology | Discovering what is new, challenging, and worth experimenting with |
+---
+
+## `05` — ACTIVITY LOG
 
 <div align="center">
 
-*I'm still learning. That's the point.*
+<a href="https://github.com/sanikakangane">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/sanikakangane">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" alt="Most-used programming languages on GitHub"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/sanikakangane">
+<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## `06` — CONTRIBUTION SIGNAL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across the GitHub contribution grid"/>
+
+<sub>EVERY CONTRIBUTION IS A SMALL STEP FORWARD.</sub>
+
+</div>
+
+---
+
+## `07` — A THOUGHT TO KEEP
+
+<div align="center">
+
+### *“Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.”*
+
+**— A. P. J. Abdul Kalam**
+
+<sub>STAY CURIOUS. STAY HUMBLE. KEEP BUILDING.</sub>
 
 </div>
 
@@ -122,103 +175,22 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 <div align="center">
 
-<sub>04 / THE TOOLS I SPEAK</sub>
+### `LET'S CONNECT`
 
-# My technological vocabulary
-
-*Every tool is another way to turn an idea into something real.*
-
-### LANGUAGES & WEB
-
-<img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" />
-
-### BACKEND & DATA
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark" />
-
-### BUILDING & CREATING
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>05 / THE LEARNING SIGNAL</sub>
-
-# Progress, not perfection.
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=D1D5DB&icon_color=A78BFA&rank_icon=github" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=D1D5DB" width="41%" alt="Programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=030712&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake following my GitHub contribution graph"/>
-
-<sub>EVERY CONTRIBUTION IS A STEP. EVERY EXPERIMENT IS A LESSON.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>06 / A THOUGHT WORTH KEEPING</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0B1020,100:312E81&text=CREATIVITY%20%E2%86%92%20THINKING%20%E2%86%92%20KNOWLEDGE&fontSize=18&fontColor=67E8F9&fontAlignY=50" width="100%"/>
-
-<br/>
-
-### “Creativity leads to thinking Thinking provides knowledge”
-
-**— Dr. A. P. J. Abdul Kalam**
-
-<sub>Former President of India · From his address to students and teachers at the National Council of Education, Kolkata, 17 May 2007.</sub>
-
-<br/>
-
-<a href="https://www.presidentofindia.gov.in/dr-apj-abdul-kalam/speeches/address-teachers-and-students-national-council-education-kolkata-west">Read the original address ↗</a>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>07 / OPEN CHANNEL</sub>
-
-# Have an interesting idea?
-
-I'm always curious about new possibilities, creative technology, AI experiments, and conversations that make me think differently.
-
-If you're learning something interesting, exploring an unusual idea, or building something with purpose, **I'd love to connect.**
-
-<br/>
-
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/INSTAGRAM-C026D3?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/FIND_ME_ON_X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-0B1020?style=for-the-badge&logo=gmail&logoColor=67E8F9"/></a>
+<a href="https://github.com/sanikakangane">GitHub</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/sanikakangane">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://instagram.com/sanikakangane_108">Instagram</a> &nbsp;·&nbsp;
+<a href="https://x.com/sanika915623">X</a> &nbsp;·&nbsp;
+<a href="mailto:sanikakangane166@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06B6D4,40:312E81,75:0C2340,100:030712&animation=fadeIn" width="100%"/>
-
-<sub>HUMAN CURIOSITY × ARTIFICIAL INTELLIGENCE</sub>
-
-<br/>
-
-<sub>STILL LEARNING. STILL WONDERING. STILL BECOMING.</sub>
+<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=6D28D9&label=CURIOUS_MINDS_STOPPED_BY"/>
+<sub>DESIGNED WITH CURIOSITY · POWERED BY COFFEE AND CODE</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5425A8,50:111C3A,100:050816&height=100&section=footer" width="100%" alt="Decorative futuristic footer"/>
 
 </div>
