@@ -1,18 +1,24 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:111111,70:252525,100:8C6A3F&text=SANIKA%20KANGANE&fontSize=48&fontColor=F5F5EF&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descSize=12&descColor=D6B88C&descAlignY=58&animation=fadeIn&font=Montserrat" width="100%" alt="Sanika Kangane — Human Curiosity and Artificial Intelligence"/>
+<!-- 00 / FIRST IMPRESSION -->
 
-<img src="assets/human-ai-touch-animation.gif" width="100%" alt="Animated human and robotic hands reaching toward each other"/>
+<img src="assets/human-ai-touch-animation.gif" width="100%" alt="Human and robotic hands reaching toward each other"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=155&text=SANIKA%20KANGANE&fontSize=54&fontColor=F3F3ED&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%2F%2F%20HUMAN%20CURIOSITY&descSize=12&descColor=999999&descAlignY=75&animation=fadeIn&font=Montserrat" width="100%" alt="Sanika Kangane in bold geometric typography"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2600&pause=850&color=F3F3ED&center=true&vCenter=true&repeat=true&width=650&height=45&lines=I+WONDER.+I+EXPLORE.+I+BUILD.;HUMAN+IMAGINATION+%2B+MACHINE+INTELLIGENCE;THE+FUTURE+STARTS+WITH+A+QUESTION." alt="Animated personal tagline"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=800&color=D6B88C&center=true&vCenter=true&repeat=true&width=700&height=60&lines=HUMAN+IMAGINATION+%2B+MACHINE+INTELLIGENCE;CURIOUS+MIND.+CREATIVE+INSTINCT.+CODE.;LEARNING+WHAT+TECHNOLOGY+CAN+BECOME.;THE+FUTURE+STARTS+WITH+A+QUESTION" alt="Animated introduction"/>
+<a href="https://github.com/sanikakangane"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=F3F3ED" alt="GitHub"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=F3F3ED" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=F3F3ED" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/sanikakangane"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-111111?style=for-the-badge&logo=github&logoColor=F5F5EF" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=D6B88C" alt="LinkedIn"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-111111?style=for-the-badge&logo=gmail&logoColor=D6B88C" alt="Email"/></a>
+<sub>LESS NOISE. MORE CURIOSITY.</sub>
 
 </div>
 
@@ -50,7 +56,7 @@ From artificial intelligence and backend systems to creative interfaces and the 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/01-C9A66B?style=flat-square" alt="01"/> Artificial Intelligence
+### 01 — Artificial Intelligence
 
 The idea that machines can learn, reason, generate, and help us solve problems fascinates me.
 
@@ -59,7 +65,7 @@ I'm curious about building AI-powered experiences that go beyond the hype and cr
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/02-888888?style=flat-square" alt="02"/> The Logic Behind Things
+### 02 — The Logic Behind Things
 
 APIs, backend development, databases, authentication, and the invisible systems that make applications work.
 
@@ -70,7 +76,7 @@ I enjoy understanding what's happening beneath the interface.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/03-D6B88C?style=flat-square" alt="03"/> Creative Technology
+### 03 — Creative Technology
 
 Interfaces, typography, visual details, fluid layouts, and the relationship between design and engineering.
 
@@ -79,7 +85,7 @@ Because functionality matters — but so does the experience.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/04-777777?style=flat-square" alt="04"/> The What-If Zone
+### 04 — The What-If Zone
 
 New technologies, unusual ideas, experimental builds, and questions that lead somewhere unexpected.
 
@@ -97,9 +103,9 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 # A mind in progress.
 
-<img src="https://img.shields.io/badge/LEARNING-292929?style=for-the-badge" alt="Learning"/>
-<img src="https://img.shields.io/badge/EXPERIMENTING-6B5338?style=for-the-badge" alt="Experimenting"/>
-<img src="https://img.shields.io/badge/EVOLVING-8A795F?style=for-the-badge" alt="Evolving"/>
+<img src="https://img.shields.io/badge/LEARNING-222222?style=flat-square&labelColor=000000&color=F3F3ED" alt="Learning"/>
+<img src="https://img.shields.io/badge/EXPERIMENTING-222222?style=flat-square&labelColor=000000&color=AAAAAA" alt="Experimenting"/>
+<img src="https://img.shields.io/badge/EVOLVING-222222?style=flat-square&labelColor=000000&color=888888" alt="Evolving"/>
 
 </div>
 
@@ -132,14 +138,14 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" alt="JavaScript, C++, Python, HTML and CSS"/>
 
-### BACKEND & DATA
+### BACKEND & DATABASES
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB and Firebase"/>
 
-### DATA ANALYSIS
+### DATA & VISUALISATION
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-222222?style=for-the-badge&logo=python&logoColor=D6B88C" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=F3F3ED" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=F3F3ED" alt="Matplotlib"/>
 
 ### BUILDING & CREATING
 
@@ -156,16 +162,16 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 # Progress, not perfection.
 
 <a href="https://github.com/sanikakangane">
-<img src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D6B88C&text_color=E5E5E5&icon_color=C9A66B&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanikakangane&show_icons=true&hide_border=true&bg_color=000000&title_color=F3F3ED&text_color=B8B8B8&icon_color=F3F3ED&rank_icon=github" width="49%" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/sanikakangane">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D6B88C&text_color=E5E5E5" width="41%" alt="Most-used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=000000&title_color=F3F3ED&text_color=B8B8B8" width="41%" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/sanikakangane">
-<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=0D0D0D&ring=C9A66B&fire=D6B88C&currStreakLabel=D6B88C&sideLabels=B8B8B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=000000&ring=F3F3ED&fire=AAAAAA&currStreakLabel=F3F3ED&sideLabels=B8B8B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="70%" alt="GitHub contribution streak"/>
 </a>
 
 <br/><br/>
@@ -182,19 +188,26 @@ Sometimes the most interesting part of learning is not knowing what you'll disco
 
 <sub>06 / A THOUGHT WORTH KEEPING</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:111111,100:57432E&text=ARTIFICIAL%20INTELLIGENCE%20AS%20A%20MENTOR&fontSize=17&fontColor=F5E6CC&fontAlignY=50&font=Montserrat" width="100%" alt="Artificial intelligence as a mentor"/>
+<br/>
+
+# AI is a mentor.  
+# Your thinking is still yours.
 
 <br/>
 
-### “AI is one of the best mentors you can have.”
+<sub>A perspective shared by Raj Shamani at the India AI Impact Summit 2026:</sub>
+
+### “You can use AI as one of the best mentors you can ever have.”
 
 **— Raj Shamani**
 
-<sub>On using AI as a tool for learning, preparation, and better decision-making.</sub>
+<br/>
+
+<sub>Use technology to expand your thinking, not switch it off.</sub>
 
 <br/>
 
-<a href="https://www.exchange4media.com/digital-news/ai-is-one-of-the-best-mentors-you-can-have-raj-shamani-on-how-ai-shapes-everyday-work-152073.html">Read the report on his AI perspective ↗</a>
+<a href="https://www.exchange4media.com/digital-news/ai-is-one-of-the-best-mentors-you-can-have-raj-shamani-on-how-ai-shapes-everyday-work-152073.html">READ THE STORY ↗</a>
 
 </div>
 
@@ -212,14 +225,17 @@ If you're learning something interesting, exploring an unusual idea, or building
 
 <br/>
 
-<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=D6B88C" alt="Connect on LinkedIn"/></a>
-<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=D6B88C" alt="Instagram"/></a>
-<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/FIND_ME_ON_X-111111?style=for-the-badge&logo=x&logoColor=F5F5EF" alt="X"/></a>
-<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-111111?style=for-the-badge&logo=gmail&logoColor=D6B88C" alt="Email"/></a>
+<a href="https://linkedin.com/in/sanikakangane"><img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=F3F3ED" alt="Connect on LinkedIn"/></a>
+
+<a href="https://instagram.com/sanikakangane_108"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=F3F3ED" alt="Instagram"/></a>
+
+<a href="https://x.com/sanika915623"><img src="https://img.shields.io/badge/FIND_ME_ON_X-000000?style=for-the-badge&logo=x&logoColor=F3F3ED" alt="X"/></a>
+
+<a href="mailto:sanikakangane166@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-000000?style=for-the-badge&logo=gmail&logoColor=F3F3ED" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:8C6A3F,40:252525,75:111111,100:000000&animation=fadeIn" width="100%" alt="Minimal black and warm gold footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:333333,45:151515,100:000000" width="100%" alt="Minimal black and charcoal footer"/>
 
 <sub>HUMAN CURIOSITY × ARTIFICIAL INTELLIGENCE</sub>
 
@@ -229,6 +245,6 @@ If you're learning something interesting, exploring an unusual idea, or building
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=6B5338&label=CURIOUS_MINDS_STOPPED_BY" alt="Profile view counter"/>
+<img src="https://komarev.com/ghpvc/?username=sanikakangane&style=flat-square&color=222222&label=VISITORS" alt="Profile view counter"/>
 
 </div>
