@@ -1,16 +1,19 @@
-<div align="center">
+ <div align="center">
 
-<!-- ═══════════════ 00 / IDENTITY ═══════════════ -->
+<!-- 00 / IDENTITY -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101116&height=190&section=header&text=SANIKA%20KANGANE&fontSize=54&fontColor=F2F0E9&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%2F%2F%20HUMAN%20CURIOSITY&descSize=13&descColor=C8FF6B&descAlignY=70&animation=fadeIn&font=Michroma" width="100%" alt="Sanika Kangane — Computer Science"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101116&height=210&section=header&text=SANIKA%20KANGANE&fontSize=48&fontColor=F2F0E9&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%2F%2F%20MACHINE%20INTELLIGENCE&descSize=12&descColor=C8FF6B&descAlignY=65&animation=fadeIn&fontFamily=Michroma" width="100%" alt="Sanika Kangane — Computer Science"/>
 
 <br/>
+
+<!-- HUMAN + AI VISUAL -->
+<!-- Add the GIF file to your repository at assets/human-ai-touch-animation.gif -->
 
 <img src="assets/human-ai-touch-animation.gif" width="100%" alt="Human and robotic hands reaching toward each other"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=800&color=C8FF6B&center=true&vCenter=true&repeat=true&width=680&height=45&lines=I+WONDER.+I+EXPLORE.+I+BUILD.;HUMAN+IMAGINATION+%2B+MACHINE+INTELLIGENCE;THE+FUTURE+STARTS+WITH+A+QUESTION." alt="Animated personal tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=900&color=C8FF6B&center=true&vCenter=true&repeat=true&width=680&height=50&lines=I+WONDER.+I+EXPLORE.+I+BUILD.;HUMAN+IMAGINATION+%2B+MACHINE+INTELLIGENCE;THE+FUTURE+STARTS+WITH+A+QUESTION" width="100%" alt="Animated personal tagline"/>
 
 <br/><br/>
 
@@ -32,7 +35,7 @@
 
 <br/><br/>
 
-# Curious by nature.  
+# Curious by nature.
 # A builder in progress.
 
 </div>
@@ -44,8 +47,6 @@ I explore how applications work, experiment with ideas, and learn the logic behi
 From backend engineering and databases to AI-powered experiences and creative interfaces, I'm interested in the entire journey from a question to something real.
 
 > Code is the medium. Curiosity is the starting point.
-
-<br/>
 
 ---
 
@@ -102,8 +103,6 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 </tr>
 </table>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -112,7 +111,7 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 <br/><br/>
 
-# Technology should amplify  
+# Technology should amplify
 # human potential.
 
 <br/>
@@ -124,8 +123,6 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 <img src="https://img.shields.io/badge/HUMAN_THINKING-191A20?style=for-the-badge&labelColor=191A20&color=C8FF6B" alt="Human thinking"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MACHINE_INTELLIGENCE-191A20?style=for-the-badge&labelColor=191A20&color=9CA3AF" alt="Machine intelligence"/>
-
-<br/><br/>
 
 </div>
 
@@ -139,8 +136,6 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 # The learning signal.
 
-<br/>
-
 </div>
 
 | Focus | What I'm exploring |
@@ -152,15 +147,11 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 | `05 / DESIGN` | Typography, UI details, and polished user experiences |
 | `06 / NEXT` | New technologies and ideas worth experimenting with |
 
-<br/>
-
 <div align="center">
 
 <sub>LEARNING IS NOT A PHASE. IT'S THE PROCESS.</sub>
 
 </div>
-
-<br/>
 
 ---
 
@@ -178,23 +169,23 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 <br/><br/>
 
-### `01` &nbsp; / &nbsp; LANGUAGES & WEB
+### `01` / LANGUAGES & WEB
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" alt="JavaScript, C++, Python, HTML, and CSS"/>
 
-<br/><br/><br/>
+<br/><br/>
 
-### `02` &nbsp; / &nbsp; BACKEND & DATABASES
+### `02` / BACKEND & DATABASES
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB, and Firebase"/>
 
-<br/><br/><br/>
+<br/><br/>
 
-### `03` &nbsp; / &nbsp; DATA & VISUALISATION
+### `03` / DATA & VISUALISATION
 
 <br/>
 
@@ -202,9 +193,9 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 &nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-191A20?style=flat-square&logo=python&logoColor=C8FF6B" alt="Matplotlib"/>
 
-<br/><br/><br/>
+<br/><br/>
 
-### `04` &nbsp; / &nbsp; DEVELOPMENT TOOLS
+### `04` / DEVELOPMENT TOOLS
 
 <br/>
 
@@ -215,8 +206,6 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 <sub>THE STACK WILL CHANGE. THE CURIOSITY STAYS.</sub>
 
 </div>
-
-<br/>
 
 ---
 
@@ -241,23 +230,21 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakangane&layout=compact&hide_border=true&bg_color=101116&title_color=C8FF6B&text_color=E5E5E5" width="41%" alt="Most-used programming languages"/>
 </a>
 
-<br/><br/><br/>
+<br/><br/>
 
 <a href="https://github.com/sanikakangane">
 <img src="https://streak-stats.demolab.com?user=sanikakangane&hide_border=true&background=101116&ring=C8FF6B&fire=45E6D1&currStreakLabel=C8FF6B&sideLabels=9CA3AF&currStreakNum=F4F4ED&sideNums=F4F4ED&dates=777777" width="75%" alt="GitHub contribution streak"/>
 </a>
 
-<br/><br/><br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph snake"/>
+<img src="https://raw.githubusercontent.com/sanikakangane/sanikakangane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 <br/><br/>
 
 <sub>COMMIT / LEARN / ITERATE / REPEAT</sub>
 
 </div>
-
-<br/>
 
 ---
 
@@ -267,7 +254,7 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 <br/><br/>
 
-# AI can be a mentor.  
+# AI can be a mentor.
 # Your thinking is still yours.
 
 <br/>
@@ -286,8 +273,6 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -296,7 +281,7 @@ Exploring new technologies, trying unfamiliar approaches, and learning by turnin
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101116&height=160&section=footer&text=STILL%20BECOMING.&fontSize=38&fontColor=F2F0E9&fontAlignY=42&desc=HUMAN%20CURIOSITY%20%C3%97%20MACHINE%20INTELLIGENCE&descSize=12&descColor=C8FF6B&descAlignY=68&font=Michroma" width="100%" alt="Still becoming — human curiosity and machine intelligence"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101116&height=160&section=footer&text=STILL%20BECOMING.&fontSize=38&fontColor=F2F0E9&fontAlignY=38&desc=HUMAN%20CURIOSITY%20%C3%97%20MACHINE%20INTELLIGENCE&descSize=12&descColor=C8FF6B&descAlignY=67&fontFamily=Michroma" width="100%" alt="Still becoming — human curiosity and machine intelligence"/>
 
 <br/><br/>
 
